@@ -11,7 +11,9 @@
 
 - 👯 My most recent- Big data & Intelligent Analytics Project [F.A.S.T - financial Stock analytics with Sentimental & Text Summarization](https://github.com/akashmdubey/AWS-Architecture-Financial-News-Stock-Analysis-Forecasting-Sentimental-Text-Summarization) [Navigate to dashboard! Click me](https://share.streamlit.io/akashmdubey/fast-financial-stock-analysis-web-app/main/app.py)
 
-- 🤝 My Strategy work Business Intelligence Solutions [BI Solutions - Tableau](https://public.tableau.com/profile/akash.mahendra.dubey#!/)
+- 🤝 My Strategy work Business Intelligence Solutions on Tableau [BI Solutions - Tableau](https://public.tableau.com/profile/akash.mahendra.dubey#!/)
+
+-🤝 PowerBI sample work as BI solution to Strategy Team & Stakeholders [Dashboard Link](https://app.powerbi.com/reportEmbed?reportId=de6987c1-27fb-42be-a3c5-a1f0c3a24997&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtZi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
 
 - 👨‍💻 All of my projects are available at [https://akashmdubey.github.io/akashmdubey/](https://akashmdubey.github.io/akashmdubey/)
 
