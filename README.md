@@ -9,7 +9,7 @@
 
 - 🔭 I’m open to work starting August'2021 [Website Portfolio](https://akashmdubey.github.io/akashmdubey/)
 
-- 👯 My most recent- Big data & Intelligent Analytics Project [F.A.S.T - financial Stock analytics with Sentimental & Text Summarization](https://github.com/akashmdubey/AWS-Architecture-Financial-News-Stock-Analysis-Forecasting-Sentimental-Text-Summarization)
+- 👯 My most recent- Big data & Intelligent Analytics Project [F.A.S.T - financial Stock analytics with Sentimental & Text Summarization](https://github.com/akashmdubey/AWS-Architecture-Financial-News-Stock-Analysis-Forecasting-Sentimental-Text-Summarization) [data dashboard] (https://share.streamlit.io/akashmdubey/fast-financial-stock-analysis-web-app/main/app.py)
 
 - 🤝 My Strategy work Business Intelligence Solutions [BI Solutions - Tableau](https://public.tableau.com/profile/akash.mahendra.dubey#!/)
 
