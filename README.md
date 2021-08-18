@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashmdubey" target="blank"><img src="https://img.shields.io/twitter/follow/akashmdubey?logo=twitter&style=for-the-badge" alt="akashmdubey" /></a> </p>
 
-- 🔭 I’m open to work starting August'2021 [Website Portfolio](https://akashmdubey.github.io/akashmdubey/)
+- 🔭 I’m open to work  [Website Portfolio](https://akashmdubey.github.io/akashmdubey/)
 
 - 👯 My most recent- Big data & Intelligent Analytics Project [F.A.S.T - financial Stock analytics with Sentimental & Text Summarization](https://github.com/akashmdubey/AWS-Architecture-Financial-News-Stock-Analysis-Forecasting-Sentimental-Text-Summarization) [Navigate to dashboard! Click me](https://share.streamlit.io/akashmdubey/fast-financial-stock-analysis-web-app/main/app.py)
 
