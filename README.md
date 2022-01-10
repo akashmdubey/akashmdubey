@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **dubey.ak@northeastern.edu**
 
-- 📄 Know about my experiences [https://akashmdubey.github.io/akashmdubey/](https://akashmdubey.github.io/akashmdubey/)
+- 📄 Know about my experiences [https://akashmdubey.com/projects/](https://akashmdubey.com/projects/)
 
 - ⚡ Fun fact **I love Product, Data, analytics**
 <!-- 
